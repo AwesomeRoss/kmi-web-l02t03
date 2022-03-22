@@ -1,0 +1,9 @@
+.text-box { 
+    border: 1px dashed blue;
+    padding: 2px;
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
